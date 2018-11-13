@@ -1,2 +1,2 @@
-# modelosOp
-Proyecto MO
+# ModelosDeOptimizacion
+Proyecto semestre MO
